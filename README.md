@@ -19,7 +19,7 @@ The progressive web application built with Laravel, Vue and OpenWeatherMap API
 1. Clone the project
 
 ```bash
-  git clone https://gitlab.ideo.pl/k.karas/weather-hub.git
+  git clone https://github.com/krzychu12350/weather-hub.git
 ```
 
 2. Go to the project directory
