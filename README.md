@@ -1,5 +1,19 @@
-# Weather Hub
-![Logo](./public/logo.png)
+<h1 align="center">Weather Hub</h1>
+<p align="center">
+<img src="./public/logo.png">
+</p>
+<p align="center">
+	  <em>Weather application</em>
+</p>
+
+## Table of Contents
+* [About Weather Hub](#about-weather-hub)
+* [Tech Stack](#tech-stack)
+* [Development setup](#development-setup)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Example users already existing in the database](#example-users-already-existing-in-the-database)
+* [License](#license)
 
 ## About Weather Hub
 The progressive web application built with Laravel, Vue and OpenWeatherMap API
@@ -14,7 +28,7 @@ The progressive web application built with Laravel, Vue and OpenWeatherMap API
 <img src="https://skillicons.dev/icons?i=laravel,mysql" />
 
 
-## Setup Locally
+## Development setup
 
 1. Clone the project
 
@@ -126,7 +140,7 @@ to allow application connect with database
 <img src="./readme/images/pwa.jpg"  alt="pwa.jpg"/>
 
 
-## Users already existing in the database
+## Example users already existing in the database
 
 • Tom Cruise<br>
 Email Address: ```t.cruise@gmail.com```<br>
@@ -135,3 +149,6 @@ Password: ```tcruise12?3```<br>
 • Adam Lambert<br>
 Email Address: ```a.lambert@gmail.com```<br>
 Password: ```alambert12?3```<br>
+
+## License
+MIT
